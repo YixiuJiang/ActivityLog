@@ -11,4 +11,5 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'com.github.jarod', name:'qqwry-java', version: '0.7.0'
 }
