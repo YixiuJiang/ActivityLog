@@ -29,9 +29,7 @@ public class ActivityLog {
     this.id = id;
   }
 
-  public ActivityLog(String ip, String city, long id) {
+  public ActivityLog(String ip) {
     this.ip = ip;
-    this.city = city;
-    this.id = id;
   }
 }
